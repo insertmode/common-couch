@@ -1,0 +1,27 @@
+{
+  "name": "common-couch",
+  "version": "0.0.1",
+  "description": "sync couchdb design documents to and from local files as requirable, testable commonJS modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "couchdb",
+    "couch",
+    "design",
+    "documents",
+    "views",
+    "commonjs",
+    "unit",
+    "test",
+    "unit-test",
+    "testing"
+  ],
+  "author": "regular.gonzales@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "atropa-jsformatter": "^0.1.2"
+  }
+}
