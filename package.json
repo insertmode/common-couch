@@ -1,6 +1,6 @@
 {
   "name": "common-couch",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "sync couchdb design documents to and from local files as requirable, testable commonJS modules",
   "bin": "bin/common-couch",
   "scripts": {
