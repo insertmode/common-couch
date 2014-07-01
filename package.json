@@ -1,6 +1,6 @@
 {
   "name": "common-couch",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "sync couchdb design documents to and from local files as requirable, testable commonJS modules",
   "bin": "bin/common-couch",
   "scripts": {
@@ -25,7 +25,7 @@
   "author": "Jan Bölsche <jan@lagomorph.de> (https://github.com/regular)",
   "license": "ISC",
   "dependencies": {
-    "couchviews": "https://github.com/insertmode/couchviews/archive/v1.1.4.tar.gz",
+    "couchviews": "https://github.com/insertmode/couchviews/archive/v1.1.5.tar.gz",
     "commander": "^2.2.0",
     "atropa-jsformatter": "^0.1.2"
   },
