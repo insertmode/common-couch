@@ -21,8 +21,11 @@
   "author": "regular.gonzales@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "couchviews": "https://github.com/insertmode/couchviews/archive/v1.1.4.tar.gz",
     "commander": "^2.2.0",
-    "atropa-jsformatter": "^0.1.2",
+    "atropa-jsformatter": "^0.1.2"
+  },
+  "devDependencies": {
     "lab": "^3.2.1"
   }
 }
